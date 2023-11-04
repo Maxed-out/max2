@@ -1,0 +1,3 @@
+[submodule "pi_touchscreen/TouchScreenRelayPanel"]
+	path = pi_touchscreen/TouchScreenRelayPanel
+	url = https://github.com/ronberenstein/TouchScreenRelayPanel

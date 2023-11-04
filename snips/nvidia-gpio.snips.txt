@@ -1,0 +1,13 @@
+1. sudo apt-get update
+2. sudo apt-get install python3-pip
+3. sudo pip3 install Jetson.GPIO
+4. sudo groupadd -f -r gpio
+5. sudo usermod -a -G gpio your_user_name
+6. sudo cp /opt/nvidia/jetson-gpio/etc/99-gpio.rules /etc/udev/rules.d/
+7. sudo udevadm control --reload-rules && sudo udevadm trigger
+
+
+
+
+
+docker pull osrf/ros2:nightly-rmw-nonfree
