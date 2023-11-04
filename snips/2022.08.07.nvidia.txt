@@ -1,0 +1,82 @@
+https://docs.nvidia.com/jetson/archives/r34.1/DeveloperGuide/index.html
+
+		
+Jetson  Orin    2,174.91
+https://developer.nvidia.com/embedded/learn/jetson-agx-orin-devkit-user-guide/index.html
+
+
+Jetson Xavier AGX H01. 2022/02 	$2000. Seeedstudio.ocm		current value $3,565.00 
+https://developer.nvidia.com/embedded/downloads#?search=Jetson%20AGX%20Xavier%20Developer%20Kit%20User%20Guide
+
+
+Jetson Xavier NX
+
+
+4.5A@20V , 3A@15V , 3A@14.8V , 3A@9V , 3A@5V						
+	
+Jetson Nano 
+Jetson T1
+Jetson T2
+			
+
+
+https://developer.nvidia.com/embedded/jetson-linux
+
+
+
+
+
+Jetson Xavier AGX H01 Kit with Jetson Xavier AGX processor, 32 TOPs, Aluminum case with cooling fan, pre-installed JetPack System
+
+https://www.seeedstudio.com/sales/order/view/order_id/118604/.    1499.00 plus 500 import fee
+
+
+Jetson  Orion 
+Jetson AGX Orin Developer Kit/945-13730-0000-000
+https://www.arrow.com/en/products/jetson-agx-orin-developer-kit945-13730-0000-000/nvidia?q=Jetson%20AGX%20Orin%20Developer%20Kit%2F945-13730-0000-000
+
+
+
+https://store.nvidia.com/en-us/jetson/store/?page=1&limit=9&locale=en-us
+
+JETSON NANO DEVELOPER KIT.    $99
+AI Perf: 472 GFLOPS
+GPU: 128-core NVIDIA Maxwell™
+CPU: Quad-core ARM A57 @ 1.43 GHz
+Memory: 4GB 64-bit LPDDR4 25.6GB/s
+Storage: microSD (Card not included)
+
+
+JETSON XAVIER NX DEVELOPER KIT. $399.00 
+AI Perf: 21 TOPS
+GPU: 384-core NVIDIA Volta™ GPU with 48 Tensor Cores
+CPU: 6-core NVIDIA Carmel ARM®v8.2 64-bit CPU 6 MB L2 + 4 MB L3
+Memory: 8 GB 128-bit LPDDR4x 59.7GB/s
+Storage: microSD (Card not included)
+
+
+JETSON TX2 NX MODULE	not a developers kit.  $199.00
+AI Perf: 1.33 TFLOPs
+GPU: NVIDIA Pascal™ Architecture GPU with 256 CUDA cores
+CPU: Dual-core NVIDIA Denver 2 64-bit CPU and quad-core ARM A57 Complex
+Memory: 4GB 128-bit LPDDR4, 1600 MHz - 51.2 GBs
+Storage: 16GB eMMC 5.1 Flash Storage
+
+
+JETSON  XAVIER AGX. DEVELOPER KIT. $1,499.00.   
+Seeed. https://www.seeedstudio.com/sales/order/view/order_id/118604/
+AI Perf: 32 TOPS
+GPU: 512-Core Volta GPU with Tensor Cores
+CPU: 8-Core ARM v8.2 64-Bit CPU, 8 MB L2 + 4 MB L3
+Memory: 32 GB 256-Bit LPDDR4x | 137 GB/s
+Storage: 32 GB eMMC 5.1
+
+
+
+JETSON AGX ORIN DEVELOPER KIT.  $1,999.00
+AI Perf: 275 TOPS
+GPU: NVIDIA Ampere architecture with 2048 NVIDIA CUDA cores and 64 tensor cores
+CPU: 12-core Arm Cortex-A78AE v8.2 64-bit CPU 3MB L2 + 6MB L3
+Memory: 32GB 256-bit LPDDR5 | 204.8 GB/s
+Storage: 64GB eMMC 5.1
+
