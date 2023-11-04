@@ -4,6 +4,8 @@ app/ds_config*
 .DS_Store
 .idea/*
 
+.idea
+
 **/~$*
 
 # App's temp files
