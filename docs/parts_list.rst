@@ -1,0 +1,83 @@
+.. _parts_list:
+
+Parts List
+===================
+
+This is a partial list of hardware that is used to set up the ROS2 lab / robot
+
+.. seealso::
+   Some body text
+
+.. note::
+   my notes
+
+
+
+Camera Pi
+----------
+|Camera IMX219-200|
+
+.. |Camera IMX219-200| raw:: html
+
+    <a href="https://www.amazon.com/gp/product/B07VBCHTN2/" target="_blank">Camera IMX219-200  - $26.00</a>
+
+|Camera Ribbon Cable|
+
+.. |Camera Ribbon Cable| raw:: html
+
+   <a href="https://www.amazon.com/DAOKI-Flexible-Ribbon-5-9inch-Raspberry/dp/B08SLPBXDZ" target="_blank">Camera Ribbon Cables - $8.00</a>
+
+|Low Lock|
+
+.. |Low Lock| raw:: html
+
+    <a href="https://www.amazon.com/3M-Dual-Lock-Reclosable-Fastener/dp/B004V3RALO" target="_blank">A Mounting Method for Camera - $25.00</a>
+
+No off the shelf solution for mounting these cameras.
+Holes are useless, too small for typical hardware
+
+
+Depth Camera
+------------
+ZED 2i - Used with Nvidia Xavier NX  [does not work with Orin Nanos]
+
+|ZED|
+
+.. |ZED| raw:: html
+
+   <a href="https://www.stereolabs.com/store/products/zed-2i" target="_blank"> ZED 2i Stereo Camera - $580.00</a>
+
+    Hint: add a shorter usb cable to your cart. These are not standard usb cables.
+
+|ZED mount|
+
+.. |ZED mount| raw:: html
+
+   <a href="https://www.amazon.com/gp/product/B07KQ1WRDQ" target="_blank">Swivel Mini Ball Head 4 count  - $16.00</a>
+
+
+
+IMU
+----------
+
+|IMU|
+
+.. |IMU| raw:: html
+
+   <a href="https://www.sparkfun.com/products/22857" target="_blank">Spark Fun VR BNO086 IMU - $30.00</a>
+
+|Qwiic|
+
+.. |Qwiic| raw:: html
+
+   <a href="https://www.sparkfun.com/products/15081" target="_blank">Qwiic Cable Kit - $9.00</a>
+
+
+Networking
+----------
+|Hub|
+
+.. |Hub| raw:: html
+
+   <a href="https://www.amazon.com/gp/product/B08KTXG8Q5/" target="_blank">Wireless Hub - $80.00</a>
+
