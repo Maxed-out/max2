@@ -13,7 +13,7 @@
 #        pre-build-command: "apt-get update -y && apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended"
 #        build-command: "sphinx-build -b html . _build
 
-
+# only works on a public repo.. need to use a token. HOW
 name: Deploy Sphinx documentation to Pages
 
 on:
