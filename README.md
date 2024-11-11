@@ -43,3 +43,6 @@ https://www.qgis.org/en/site/forusers/download.html
 
 
 https://www.youtube.com/watch?v=VCobOzw2kHM
+
+
+Checking to see if a git commit via the tasks will show up on Jira
