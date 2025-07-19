@@ -2,8 +2,6 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-gpio=[]
-gpio_name=[]
 relays=[]
 relay={"gpio":10,"name":"gpio10"}
 relays.append(relay)
@@ -19,5 +17,5 @@ async def read_item(item_id: int):
     return {"item_id": item_id}
 
 @app.get("/relay/")
-async def read_item(skip: int = 0, limit: int = 10):
+async def read_relays(skip: int = 0, limit: int = 10):
     return fake_items_db[skip : skip + limit]
